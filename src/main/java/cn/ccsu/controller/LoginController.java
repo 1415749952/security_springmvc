@@ -1,4 +1,4 @@
-package cn.ccsu;
+package cn.ccsu.controller;
 
 import cn.ccsu.model.AuthenticationRequest;
 import cn.ccsu.model.UserDto;
